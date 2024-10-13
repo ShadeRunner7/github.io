@@ -1,4 +1,4 @@
-## Markus Chanth web-tehtävä
+## Markus Chanth web exercise
 #### First set  
 Writing in Markdown is _not_ that hard! 
 
